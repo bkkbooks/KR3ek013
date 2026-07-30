@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ek013_000.yaml, hash: 'sha256:ce01712bd7dad2f41a3573daaba0a35c31141584f81bdf069f1206136f401b80'}
+  - {seq: 0, filename: KR3ek013_000.yaml, hash: 'sha256:658b653ee39d96ae248751b4a8c1ce4b403a8ca138cbf40f970ab9d3fbdcb2c2'}
   - {seq: 1, filename: KR3ek013_001.yaml, hash: 'sha256:dedb3a09c4f1feff53ae52a7ea23800b2770c5beef84e3769a57778cd06d97b6'}
   - {seq: 2, filename: KR3ek013_002.yaml, hash: 'sha256:5d17a57f5a55aaf0fce662187f9be34c5a31eef0b31f84e53584fbebe44958aa'}
   - {seq: 3, filename: KR3ek013_003.yaml, hash: 'sha256:e69a260966b9a5b0657a8d59ce97eb123543a7da972ec4b77505e0116a79c84a'}
@@ -59,7 +59,7 @@ assets:
   - {seq: 39, filename: KR3ek013_039.yaml, hash: 'sha256:63c0cd103ea8a6d1fb7c4c7467272bb64a2947c83c647bb6ad5c6a55f84ab6a2'}
   - {seq: 40, filename: KR3ek013_040.yaml, hash: 'sha256:2381d33a9e3cda6d6318c121bbb0f6fb8ac2ca437ac5254670e2343b3a98d9db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ek013_000.markers.yaml, hash: 'sha256:1eee97af8e44e19c3c136c52ae2b3370edcbe59228541c36ac92430a0f1fdedd'}
+  - {seq: 0, role: markers, filename: assets/KR3ek013_000.markers.yaml, hash: 'sha256:fe0863008c1c71a8894f216bf70dba006c160add38c22c5214be6f3052969c0e'}
   - {seq: 1, role: markers, filename: assets/KR3ek013_001.markers.yaml, hash: 'sha256:68d13abb11cbcb8b769c80cc9c95324b6141b894b7611752f7fc25abec722349'}
   - {seq: 2, role: markers, filename: assets/KR3ek013_002.markers.yaml, hash: 'sha256:01a63f9c9bcf599ea4a5b9954b8604b78c4bc05f30defb26cd3da701743a069b'}
   - {seq: 3, role: markers, filename: assets/KR3ek013_003.markers.yaml, hash: 'sha256:7b8a0ac7e01d2c64874bd9f607e38485f4da36b6983130842491596db18b1027'}
@@ -105,7 +105,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek013_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 491
   label: 汪序
@@ -115,7 +115,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek013_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 491
     - 939
   label: 自序
@@ -125,7 +125,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ek013_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 939
     - 1649
   label: 喬序
@@ -136,8 +136,8 @@ table_of_contents:
     marker_id: KR3ek013_jc_000-d5.h1s1
     span:
     - body
-    - 0
-    - 1041
+    - 1649
+    - 2690
   label: 凡例
   type: section
   level: 1
@@ -13871,7 +13871,7 @@ table_of_contents:
   label: 似證辨疑
   type: section
   level: 3
-hash: sha256:d4cf99a7bd12762d49fc80d63ffe97c5d848b7268c625c330780a81ee0d2239e
+hash: sha256:b31f9cef61e003bcf23a5fde5d596bdaf4187e17062eef44c08229c35659c66b
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
